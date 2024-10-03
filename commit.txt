@@ -1,1 +1,2 @@
-Amending commit test 1 
+Amending commit test 1
+Amending commit test 2
